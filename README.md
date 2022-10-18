@@ -17,7 +17,7 @@
 ## 워크플로우
 <!--![image](https://user-images.githubusercontent.com/60374463/196422396-ad4e7895-1c09-4e09-96dc-488a87b69590.png)-->
 <img width=700 src = "https://user-images.githubusercontent.com/60374463/196422396-ad4e7895-1c09-4e09-96dc-488a87b69590.png">
-여기서 DS 파트를 담당했습니다.
+여기서 [DS 파트](https://github.com/HwangHanJae/CP1/tree/master/DS)를 담당했습니다.
 
 ## 데이터 출처
 - [농식품 빅데이터 거래소] 만개의 레시피
@@ -27,6 +27,7 @@
 
 ### 과정
 - [코사인 유사도를 구하기 위한 텍스트 전처리 과정](DS/recommendation_system/cosine_similarity_ingredient_preprocessing.ipynb)
+- [코사인 유사도를 구하고 데이터 프레임을 만드는 과정](DS/recommendation_system/make_cosine_similarity.ipynb)
 1. (CKG_MTRL_CN - 재료 내용)컬럼 대신 레시피 일련번호를 기준으로 크롤링한 데이터를 사용
   - 원본 컬럼(CKG_MTRL_CN)은 텍스트로 되어 있음
   - 구분자를 '|'으로 사용하기 때문에 데이터를 분리하고, 전처리하는 과정이 어렵고 시간이 오래걸릴것이라 판단
