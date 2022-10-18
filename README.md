@@ -17,7 +17,7 @@
 ## 워크플로우
 <!--![image](https://user-images.githubusercontent.com/60374463/196422396-ad4e7895-1c09-4e09-96dc-488a87b69590.png)-->
 <img width=700 src = "https://user-images.githubusercontent.com/60374463/196422396-ad4e7895-1c09-4e09-96dc-488a87b69590.png">
-여기서 [DS 파트](https://github.com/HwangHanJae/CP1/tree/master/DS)를 담당했습니다.
+여기서 DS 파트를 담당했습니다.
 
 ## 데이터 출처
 - [농식품 빅데이터 거래소] 만개의 레시피
